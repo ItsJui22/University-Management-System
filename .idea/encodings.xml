@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/admin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/admin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/admission/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/admission/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/faculty/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/faculty/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/login/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/login/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/student/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/student/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
